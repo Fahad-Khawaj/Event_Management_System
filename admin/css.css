@@ -1,0 +1,125 @@
+.login{
+    background-image: url(img/bg.jpg);
+    height: 650px;
+    padding-top: 150px;
+}
+
+
+.login  .button{
+
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+     color:#000000; 
+    background-color: #FFFFFF;
+    border:#000000 2px solid;
+}
+.login  .b{
+    text-align: center;
+}
+.bar{
+    padding-top: 20px;
+padding-bottom: 20px;
+    background-color:#FFFFFF; 
+}
+.bar a{
+color: #000000;
+font-weight: bold;
+text-align: right;
+border:#000000 2px solid;
+padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.bar a:hover{
+color: #EE1D23;
+}
+
+
+.welcome .b{
+    background-color:#AAAAFF;
+    color:#000000;
+    text-align: center;
+    font-size: 30px;
+
+}
+.login .c a{
+color: #000000;
+font-weight: bold;
+text-align: right;
+border:#000000 2px solid;
+ padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+
+}
+.login .c{
+    text-align: center;
+    padding-top: 20px;
+}
+.login .c a:hover{
+    background-color:#AAAAFF;
+}
+
+
+.navbar{
+    background-color: #B2B2A9;
+}
+
+.navbar .fa{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #000000;
+    font-size: 60px;
+    text-align: center;
+}
+.box{
+    height: 6px;
+    background-color:#3B4351;
+}
+
+.foot{
+    background-color: #B2B2A9;
+    color: #000000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.foot .remarks{
+    padding-top: 10px;
+    text-align: left;
+}
+
+.foot .company{
+    text-align: right;
+}
+
+h2{
+    color: #4C3A26;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+
+
+ #SUBMIT{
+  background-color:#FFFFFF;
+  color:#000000;
+  font-weight: bold;
+  margin-left: 80px;
+  margin-bottom: 20px;
+
+  }
+.form-group input{
+border: #000000 2px solid;
+}
+
+.form-group label{
+color:#FFFFFF;
+}
